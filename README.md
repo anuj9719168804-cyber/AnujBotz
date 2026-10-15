@@ -18,7 +18,7 @@
 
 > **"Automation should be an experience, not just a function."**
 >
-> At CosmicBotz, we move beyond simple scripts. We build production-ready ecosystems designed to handle the high demands of anime and media communities. Every line of code is written with a "UX-First" mentality, ensuring that complex backend logic translates into a smooth, premium interface for the end user.
+> At AnujBotz, we move beyond simple scripts. We build production-ready ecosystems designed to handle the high demands of anime and media communities. Every line of code is written with a "UX-First" mentality, ensuring that complex backend logic translates into a smooth, premium interface for the end user.
 
 * ● **Human-Centric Logic:** We design bots that feel intuitive and responsive, not robotic.
 * ● **High-Performance Scaling:** Our architecture is built to stay stable even during massive traffic spikes.
