@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,25,30&height=200&section=header&text=CosmicBotz&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21,25,30&height=200&section=header&text=AnujBotz&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -28,16 +28,6 @@
 
 ---
 
-## 🚀 The Ecosystem
-
-* ● **Auto Filter** — High-speed intelligent content indexing.
-* ● **Video Sequence** — Advanced media curation with quality selectors.
-* ● **Alisa Store** — Secure, encrypted file distribution backbone.
-
-<br/>
-
----
-
 ## 📊 Development Pulse
 
 <div align="center">
@@ -47,7 +37,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmicBotz&show_icons=true&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnujBotz&show_icons=true&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=ffffff&bg_color=0D1117&hide_border=true" width="48%" alt="Stats" />
   
   <img src="https://streak-stats.demolab.com/?user=CosmicBotz&theme=transparent&stroke=EF4444&fire=EF4444&ring=EF4444&currStreakLabel=EF4444&hide_border=true" width="48%" alt="Streak" />
 </div>
@@ -56,7 +46,7 @@
 
 ### 🐍 Contribution Flow
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CosmicBotz/CosmicBotz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/anuj9719168804-cyber/Anujbotz/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
@@ -91,11 +81,11 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@CosmicBotz-EF4444?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CosmicBotz)
+[![Telegram](https://img.shields.io/badge/Telegram-@Anujedits76-EF4444?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anujedits76)
 
 <br/><br/>
 
-<img src="https://count.getloli.com/get/@CosmicBotz?theme=rule29" alt="CosmicBotz Views" />
+<img src="https://count.getloli.com/get/@Anujedits76?theme=rule29" alt="AnujBotz Views" />
 
 <br/>
 
